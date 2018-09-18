@@ -77,4 +77,8 @@ public class BerlinClock {
     private int getLowerMultiple(int everyFifth) {
         return (everyFifth - ((int) Math.ceil(everyFifth % 5))) / 5;
     }
+
+    public static void main(String[] args) {
+        //just for testing git.
+    }
 }
