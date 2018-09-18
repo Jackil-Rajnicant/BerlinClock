@@ -1,3 +1,5 @@
 BerlinClock - kata
 
-Testing
+Testing.
+
+Testing a commit and push.
