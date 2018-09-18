@@ -9,8 +9,5 @@
         <module name="BerlinClock" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="BerlinClock" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>

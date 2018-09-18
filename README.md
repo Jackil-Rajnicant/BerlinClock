@@ -1,1 +1,3 @@
-# BerlinClock
+BerlinClock - kata
+
+Testing
